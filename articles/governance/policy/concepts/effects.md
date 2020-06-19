@@ -32,6 +32,8 @@ The following effects are being _deprecated_:
 > modified, the _effect_ parameter must be changed to a value in the updated _allowedValues_ list.
 
 ## Order of evaluation
+See description on proposed changes for adding images
+https://microsoft-my.sharepoint.com/:p:/p/tonycor/EYh2tCz4uYpIicp2fFYPmtQBYIp3f44TtIDwp_LYQsroZA?e=JF1VZi 
 
 Requests to create or update a resource are evaluated by Azure Policy first. Azure Policy creates a
 list of all assignments that apply to the resource and then evaluates the resource against each
